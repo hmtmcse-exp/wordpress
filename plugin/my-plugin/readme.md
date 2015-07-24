@@ -349,7 +349,7 @@ Example
 
 
 <br>
-#### 26. Download the plugin here
+#### 26. Download the plugin [here](https://github.com/hmtmcse/wordpress/blob/master/plugin/my-plugin/my-plugin.zip?raw=true)
 
 
 
