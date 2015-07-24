@@ -1,0 +1,3 @@
+git add --all
+git commit -m "Commited By HMTMCSE http://www.hmtmcse.com/php/wordpress"
+git push --all
