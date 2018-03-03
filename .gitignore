@@ -1,0 +1,10 @@
+.idea
+*.iml
+/index.php
+/upgrade
+/plugins/index.php
+/plugins/hello.php
+/themes/index.php
+/themes/twentyfifteen
+/themes/twentyseventeen
+/themes/twentysixteen
