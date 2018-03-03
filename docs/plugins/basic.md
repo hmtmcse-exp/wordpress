@@ -17,7 +17,25 @@ There are two types of hooks
 **Plugin Name**: (required) The name of your plugin, which will be displayed in the Plugins list in the WordPress Admin.
 **Plugin URI**: Plugin Website url
 **Description**: A short description of the plugin, as displayed in the Plugins section in the WordPress Admin. 
-**Version**: The current version number of the plugin
+**Version**: The current version number of the plugin. etc
+
+```php
+<?php
+/*
+Plugin Name:  WordPress.org Plugin
+Plugin URI:   https://developer.wordpress.org/plugins/the-basics/
+Description:  Basic WordPress Plugin Header Comment
+Version:      20160911
+Author:       WordPress.org
+Author URI:   https://developer.wordpress.org/
+License:      GPL2
+License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  wporg
+Domain Path:  /languages
+*/
+```
+
+
 
 
    
